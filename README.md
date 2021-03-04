@@ -19,7 +19,7 @@
 
 ============Quantumultx===============
 [rewrite_local]
-# 中青获取body
+# 中青获取body零零落落零零落落llll
 https:\/\/ios\.baertt\.com\/v5\/article\/complete.json url script-request-body https://raw.githubusercontent.com/songyangzz/QuantumultX/master/zqgetbody.js
 # 中青看点极速版
 https:\/\/\w+\.youth\.cn\/TaskCenter\/(sign|getSign) url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
